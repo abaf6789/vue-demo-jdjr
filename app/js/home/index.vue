@@ -5,6 +5,7 @@
         <Fiance/>
         <Product/>
         <Insurance/>
+        <Car/>
     </div>
 </template>
 
@@ -14,6 +15,7 @@ import Slider from "./hslider.vue"
 import Fiance from "./financechoice.vue"
 import Product from "./product.vue"
 import Insurance from "./insurance.vue"
+import Car from "./car.vue"
 export default {
     components: {
         Heador,
@@ -21,6 +23,7 @@ export default {
         Fiance,
         Product,
         Insurance,
+        Car,
     },
 }
 </script>

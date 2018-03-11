@@ -29,5 +29,8 @@ export default {
   @import "../../css/element.scss";
   .panel {
     @include panel;
+    &>h4 {
+      font-weight: 700;
+    }
   }
 </style>
