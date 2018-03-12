@@ -30,7 +30,7 @@ export default {
                     autoplay: true,
                     loop: true,
                     pagination: {
-                        el: ".swpier-pagination",
+                        el: ".swiper-pagination",
                     },
                     notNextTick: false,
                 }

@@ -26,7 +26,7 @@ export default {
     left:0;
     right:0;
     font-size: 32px;
-    background: #fff url(//m.jr.jd.com/spe/qyy/main/images/jr-logo.png) center center no-repeat;
+    background: #F9F9F9 url(//m.jr.jd.com/spe/qyy/main/images/jr-logo.png) center center no-repeat;
     background-size: auto 50%;
     z-index: 100;
 

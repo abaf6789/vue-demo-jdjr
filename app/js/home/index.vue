@@ -6,6 +6,8 @@
         <Product/>
         <Insurance/>
         <Car/>
+        <Information/>
+        <Footor/>
     </div>
 </template>
 
@@ -16,6 +18,8 @@ import Fiance from "./financechoice.vue"
 import Product from "./product.vue"
 import Insurance from "./insurance.vue"
 import Car from "./car.vue"
+import Information from "./information.vue"
+import Footor from "../public/footer.vue"
 export default {
     components: {
         Heador,
@@ -24,6 +28,8 @@ export default {
         Product,
         Insurance,
         Car,
+        Information,
+        Footor,
     },
 }
 </script>
