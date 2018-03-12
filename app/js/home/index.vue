@@ -6,7 +6,7 @@
         <Product/>
         <Insurance/>
         <Car/>
-        <Information/>
+        <Navbar/>
         <Footor/>
     </div>
 </template>
@@ -18,7 +18,7 @@ import Fiance from "./financechoice.vue"
 import Product from "./product.vue"
 import Insurance from "./insurance.vue"
 import Car from "./car.vue"
-import Information from "./information.vue"
+import Navbar from "../public/navbar.vue"
 import Footor from "../public/footer.vue"
 export default {
     components: {
@@ -28,7 +28,7 @@ export default {
         Product,
         Insurance,
         Car,
-        Information,
+        Navbar,
         Footor,
     },
 }
